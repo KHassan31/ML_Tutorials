@@ -1,0 +1,10 @@
+.coverage
+coverage_report
+.idea/
+**/__pycache__
+../.pytest_cache
+tests/.pytest_cache
+tests_report
+dist/
+.venv
+xml-reports
